@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "code": "SV001",
+    "name": "Nguyễn Văn An",
+    "className": "CNTT1",
+    "email": "an.nv@example.com",
+    "gpa": 8.2
+  },
+  {
+    "id": "2",
+    "code": "SV002",
+    "name": "Trần Thị Bình",
+    "className": "CNTT1",
+    "email": "binh.tt@example.com",
+    "gpa": 7.5
+  },
+  {
+    "id": "3",
+    "code": "SV003",
+    "name": "Lê Hoàng Cường",
+    "className": "CNTT2",
+    "email": "cuong.lh@example.com",
+    "gpa": 6.8
+  },
+  {
+    "id": "4",
+    "code": "SV004",
+    "name": "Phạm Minh Dũng",
+    "className": "KTPM",
+    "email": "dung.pm@example.com",
+    "gpa": 9.0
+  },
+  {
+    "id": "5",
+    "code": "SV005",
+    "name": "Hoàng Thu Hà",
+    "className": "KTPM",
+    "email": "ha.ht@example.com",
+    "gpa": 8.6
+  },
+  {
+    "id": "6",
+    "code": "SV006",
+    "name": "Vũ Quốc Huy",
+    "className": "CNTT2",
+    "email": "huy.vq@example.com",
+    "gpa": 5.9
+  },
+  {
+    "id": "7",
+    "code": "SV007",
+    "name": "Đặng Mai Linh",
+    "className": "CNTT1",
+    "email": "linh.dm@example.com",
+    "gpa": 7.9
+  },
+  {
+    "id": "8",
+    "code": "SV008",
+    "name": "Bùi Đức Long",
+    "className": "KTPM",
+    "email": "long.bd@example.com",
+    "gpa": 6.4
+  },
+  {
+    "id": "9",
+    "code": "SV009",
+    "name": "Ngô Thanh Mai",
+    "className": "CNTT2",
+    "email": "mai.nt@example.com",
+    "gpa": 8.8
+  },
+  {
+    "id": "10",
+    "code": "SV010",
+    "name": "Đỗ Gia Nam",
+    "className": "CNTT1",
+    "email": "nam.dg@example.com",
+    "gpa": 7.1
+  }
+]
